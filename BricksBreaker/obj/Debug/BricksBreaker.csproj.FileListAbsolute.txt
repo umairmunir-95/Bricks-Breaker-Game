@@ -1,0 +1,35 @@
+D:\BricksBreaker\BricksBreaker\bin\Debug\BricksBreaker.exe.config
+D:\BricksBreaker\BricksBreaker\bin\Debug\BricksBreaker.exe
+D:\BricksBreaker\BricksBreaker\bin\Debug\BricksBreaker.pdb
+D:\BricksBreaker\BricksBreaker\obj\Debug\BricksBreaker.form1.resources
+D:\BricksBreaker\BricksBreaker\obj\Debug\BricksBreaker.Properties.Resources.resources
+D:\BricksBreaker\BricksBreaker\obj\Debug\BricksBreaker.csproj.GenerateResource.Cache
+D:\BricksBreaker\BricksBreaker\obj\Debug\BricksBreaker.exe
+D:\BricksBreaker\BricksBreaker\obj\Debug\BricksBreaker.pdb
+D:\BricksBreaker\BricksBreaker\obj\Debug\BricksBreaker.csprojResolveAssemblyReference.cache
+D:\BricksBreaker Update\BricksBreaker\bin\Debug\BricksBreaker.exe
+D:\BricksBreaker Update\BricksBreaker\bin\Debug\BricksBreaker.exe.config
+D:\BricksBreaker Update\BricksBreaker\bin\Debug\BricksBreaker.pdb
+D:\BricksBreaker Update\BricksBreaker\obj\Debug\BricksBreaker.csprojResolveAssemblyReference.cache
+D:\BricksBreaker Update\BricksBreaker\obj\Debug\BricksBreaker.form1.resources
+D:\BricksBreaker Update\BricksBreaker\obj\Debug\BricksBreaker.Properties.Resources.resources
+D:\BricksBreaker Update\BricksBreaker\obj\Debug\BricksBreaker.csproj.GenerateResource.Cache
+D:\BricksBreaker Update\BricksBreaker\obj\Debug\BricksBreaker.exe
+D:\BricksBreaker Update\BricksBreaker\obj\Debug\BricksBreaker.pdb
+D:\BricksBreaker Update\BricksBreaker\bin\Debug\BricksBreaker.exe.manifest
+D:\BricksBreaker Update\BricksBreaker\bin\Debug\BricksBreaker.application
+D:\BricksBreaker Update\BricksBreaker\obj\Debug\BricksBreaker.exe.manifest
+D:\BricksBreaker Update\BricksBreaker\obj\Debug\BricksBreaker.application
+D:\BricksBreaker 3\BricksBreaker\bin\Debug\BricksBreaker.exe.config
+D:\BricksBreaker 3\BricksBreaker\bin\Debug\BricksBreaker.exe.manifest
+D:\BricksBreaker 3\BricksBreaker\bin\Debug\BricksBreaker.application
+D:\BricksBreaker 3\BricksBreaker\bin\Debug\BricksBreaker.exe
+D:\BricksBreaker 3\BricksBreaker\bin\Debug\BricksBreaker.pdb
+D:\BricksBreaker 3\BricksBreaker\obj\Debug\BricksBreaker.csprojResolveAssemblyReference.cache
+D:\BricksBreaker 3\BricksBreaker\obj\Debug\BricksBreaker.form1.resources
+D:\BricksBreaker 3\BricksBreaker\obj\Debug\BricksBreaker.Properties.Resources.resources
+D:\BricksBreaker 3\BricksBreaker\obj\Debug\BricksBreaker.csproj.GenerateResource.Cache
+D:\BricksBreaker 3\BricksBreaker\obj\Debug\BricksBreaker.exe.manifest
+D:\BricksBreaker 3\BricksBreaker\obj\Debug\BricksBreaker.application
+D:\BricksBreaker 3\BricksBreaker\obj\Debug\BricksBreaker.exe
+D:\BricksBreaker 3\BricksBreaker\obj\Debug\BricksBreaker.pdb
